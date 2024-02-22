@@ -1,0 +1,9 @@
+setuptools
+datasets 
+langchain 
+PyPDF2
+python-dotenv
+pinecone-client
+langchain-pinecone
+transformers
+-e .
